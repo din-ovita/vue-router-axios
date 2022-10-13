@@ -100,7 +100,4 @@ form > table > tr > td > button {
   padding: 7px 15px;
   border-radius: 3px;
 }
-.dinda {
-  background-color: lavenderblush;
-}
 </style>

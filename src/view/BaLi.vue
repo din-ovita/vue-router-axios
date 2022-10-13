@@ -11,7 +11,6 @@
           <td>
             <h2>RUANG ASPIRASI</h2>
           </td>
-          <td>DINDA</td>
         </tr>
         <tr>
           <input type="hidden" v-model="form.id" required />
