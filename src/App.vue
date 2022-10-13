@@ -68,7 +68,6 @@ td {
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
-  /* color: white; */
   background-color: rgb(71, 207, 207);
 }
 .table > tr > td > label {
@@ -77,7 +76,6 @@ td {
 form > table > tr > td > button {
   background-color: teal;
   border: 1px solid #cccccc;
-  /* color: white; */
   font-weight: bold;
   padding: 7px 15px;
   border-radius: 3px;
@@ -85,7 +83,6 @@ form > table > tr > td > button {
 .btn-edit {
   border: 1px solid skyblue;
   background-color: #fff;
-  /* color: white; */
   font-weight: bold;
   padding: 7px 15px;
   border-radius: 3px;
@@ -99,9 +96,11 @@ form > table > tr > td > button {
 .btn-del {
   border: 1px solid red;
   background-color: #fff;
-  /* color: white; */
   font-weight: bold;
   padding: 7px 15px;
   border-radius: 3px;
+}
+.dinda {
+  background-color: lavenderblush;
 }
 </style>
