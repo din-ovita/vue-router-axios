@@ -1,0 +1,312 @@
+{
+  "jakartas": [
+    {
+      "kota": "Jakarta Pusat",
+      "no": 1,
+      "bupati": "Dhany Sukma",
+      "luas": "52,38 km²",
+      "jumlah": "1.056.896 jiwa",
+      "kepadatan": "18.993 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lambang_Daerah_Jakarta_Pusat.png",
+      "id": 1
+    },
+    {
+      "id": 1,
+      "no": 2,
+      "kota": "Jakarta Timur",
+      "bupati": "Muhammad Anwar",
+      "luas": "188,03 km²",
+      "jumlah": "3.264.699 jiwa",
+      "kepadatan": "17.365 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lambang_Kota_Jakarta_Timur.png/800px-Lambang_Kota_Jakarta_Timur.png"
+    },
+    {
+      "no": 3,
+      "kota": "Jakarta Selatan",
+      "bupati": "Munjirin",
+      "luas": "141,37 km²",
+      "jumlah": "1.191.213 jiwa",
+      "kepadatan": "16.865 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Seal_of_South_Jakarta.png",
+      "id": 2
+    },
+    {
+      "kota": "Jakarta Barat",
+      "no": 4,
+      "bupati": "Yani Wahyu Purwoko",
+      "luas": "129,54 km²",
+      "jumlah": "2.586.330 jiwa",
+      "kepadatan": "19.975 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Seal_of_West_Jakarta.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "no": 5,
+      "kota": "Jakarta Utara",
+      "bupati": "Ali Maulana Hakim",
+      "luas": "146,66 km²",
+      "jumlah": "1.864.471  jiwa",
+      "kepadatan": "12.723 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png/800px-Lambang_Kota_Administrasi_Jakarta_Utara.png"
+    },
+    {
+      "id": 5,
+      "no": 6,
+      "kota": "Kepulauan Seribu",
+      "bupati": "Junaedi",
+      "luas": "8,69 km²",
+      "jumlah": "29.58 jiwa",
+      "kepadatan": "3.400 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lambang_Kabupaten_Administrasi_Kepulauan_Seribu.png/706px-Lambang_Kabupaten_Administrasi_Kepulauan_Seribu.png"
+    }
+  ],
+  "jabars": [
+    {
+      "kota": "Bandung",
+      "no": 1,
+      "bupati": "Dadang Supriatna",
+      "luas": "1.767,96 km²",
+      "jumlah": "3.623.790 jiwa",
+      "kepadatan": "15.170 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lambang_Kabupaten_Bandung%2C_Jawa_Barat%2C_Indonesia.svg/600px-Lambang_Kabupaten_Bandung%2C_Jawa_Barat%2C_Indonesia.svg.png",
+      "id": 0
+    },
+    {
+      "kota": "Bekasi",
+      "no": 2,
+      "bupati": "Dani Ramdan",
+      "luas": "1.224,88 km²",
+      "jumlah": "3.113.071 jiwa",
+      "kepadatan": "7.780 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lambang_Kabupaten_Bekasi.svg/800px-Lambang_Kabupaten_Bekasi.svg.png",
+      "id": 1
+    },
+    {
+      "no": 3,
+      "kota": "Bogor",
+      "bupati": "Iwan Setiawan",
+      "luas": "2.710,62 km²",
+      "jumlah": "5.427.068 jiwa",
+      "kepadatan": "8.985 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lambang_Kabupaten_Bogor.svg/800px-Lambang_Kabupaten_Bogor.svg.png",
+      "id": 2
+    },
+    {
+      "no": 4,
+      "kota": "Cirebon",
+      "bupati": "Imron Rosyadi",
+      "luas": "984,52 km²",
+      "jumlah": "2.270.621 jiwa",
+      "kepadatan": "8.387 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Coat_of_arms_of_Cirebon_Regency.svg/800px-Coat_of_arms_of_Cirebon_Regency.svg.png",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "no": 5,
+      "kota": "Garut",
+      "bupati": "Rudi Gunawan",
+      "luas": "3.074,07 km²",
+      "jumlah": "2.585.607  jiwa",
+      "kepadatan": "841 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lambang_Kabupaten_Garut.svg/800px-Lambang_Kabupaten_Garut.svg.png"
+    },
+    {
+      "id": 5,
+      "no": 6,
+      "kota": "Indramayu",
+      "bupati": "Nina Agustina",
+      "luas": "2.040,11 km²",
+      "jumlah": "1.834.434 jiwa",
+      "kepadatan": "899 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Seal_of_Indramayu_Regency.svg/800px-Seal_of_Indramayu_Regency.svg.png"
+    }
+  ],
+  "jatengs": [
+    {
+      "id": 0,
+      "no": 1,
+      "kota": "Semarang",
+      "bupati": "Ir. Hevearita",
+      "luas": "373,8 km²",
+      "jumlah": "1.688.133 jiwa",
+      "kepadatan": "4.425 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Seal_of_the_City_of_Semarang.svg/800px-Seal_of_the_City_of_Semarang.svg.png"
+    },
+    {
+      "id": 1,
+      "no": 2,
+      "kota": "Demak",
+      "bupati": "Eisti'anah",
+      "luas": "897,4 km²",
+      "jumlah": "1.158.772 jiwa",
+      "kepadatan": "1.229 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Seal_of_Demak_Regency.svg/800px-Seal_of_Demak_Regency.svg.png"
+    },
+    {
+      "id": 2,
+      "no": 3,
+      "kota": "Temanggung",
+      "bupati": "Muhammad Al Khadziq",
+      "luas": "837,71 km²",
+      "jumlah": "790.174 jiwa",
+      "kepadatan": "944 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Seal_of_Temanggung_Regency.svg/800px-Seal_of_Temanggung_Regency.svg.png"
+    },
+    {
+      "id": 3,
+      "no": 4,
+      "kota": "Kebumen",
+      "bupati": "Arif Sugiyanto",
+      "luas": "1.211,74 km²",
+      "jumlah": "1.350.438 jiwa",
+      "kepadatan": "1.115 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Kebumen_Regency.svg/800px-Seal_of_Kebumen_Regency.svg.png"
+    },
+    {
+      "id": 4,
+      "no": 5,
+      "kota": "Pekalongan",
+      "bupati": "Fadia Arafiq",
+      "luas": "45,25 km²",
+      "jumlah": "307.097 jiwa",
+      "kepadatan": "6.613 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Coat_of_arms_of_the_City_of_Pekalongan.svg/800px-Coat_of_arms_of_the_City_of_Pekalongan.svg.png"
+    },
+    {
+      "id": 5,
+      "no": 6,
+      "kota": "Surakarta",
+      "bupati": "Gibran Rakabuming Raka",
+      "luas": "44,02 km²",
+      "jumlah": "409.214 jiwa",
+      "kepadatan": "12.599 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Seal_of_the_City_of_Surakarta.svg/800px-Seal_of_the_City_of_Surakarta.svg.png"
+    }
+  ],
+  "jatims": [
+    {
+      "id": 0,
+      "no": 1,
+      "kota": "Surabaya",
+      "bupati": "Eri Cahyadi",
+      "luas": "350,54 km²",
+      "jumlah": "2.874.314 jiwa",
+      "kepadatan": "8.304 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/City_of_Surabaya_Logo.svg/800px-City_of_Surabaya_Logo.svg.png"
+    },
+    {
+      "id": 1,
+      "no": 2,
+      "kota": "Malang",
+      "bupati": "Sutiaji",
+      "luas": "145,28 km²",
+      "jumlah": "843.810 jiwa",
+      "kepadatan": "7.800 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Seal_of_Malang_City_%28Logo_Kota_Malang%29.svg/800px-Seal_of_Malang_City_%28Logo_Kota_Malang%29.svg.png"
+    },
+    {
+      "no": 3,
+      "kota": "Blitar",
+      "bupati": "Santoso",
+      "luas": "7.800 km²",
+      "jumlah": "149.149 jiwa",
+      "kepadatan": "3.891 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Seal_of_the_City_of_Blitar.svg/800px-Seal_of_the_City_of_Blitar.svg.png",
+      "id": 2
+    },
+    {
+      "no": 4,
+      "kota": "Tuban",
+      "bupati": "Aditya Harlindra",
+      "luas": "1.834,15 km²",
+      "jumlah": "1.198.012 jiwa",
+      "kepadatan": "551 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coat_of_arms_of_Tuban_Regency.svg/800px-Coat_of_arms_of_Tuban_Regency.svg.png",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "no": 5,
+      "kota": "Sidoarjo",
+      "bupati": "Ahmad Muhdlor Ali",
+      "luas": "634,38 km²",
+      "jumlah": "2.082.801  jiwa",
+      "kepadatan": "2.703 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Sidoarjo_Regency.svg/800px-Seal_of_Sidoarjo_Regency.svg.png"
+    },
+    {
+      "id": 5,
+      "no": 6,
+      "kota": "Sumenep",
+      "bupati": "Achmad Fauzi",
+      "luas": "1.998,54 km²",
+      "jumlah": "1.124.436 jiwa",
+      "kepadatan": "494 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Coat_of_arms_of_Sumenep_Regency.svg/800px-Coat_of_arms_of_Sumenep_Regency.svg.png"
+    }
+  ],
+  "balis": [
+    {
+      "kota": "Denpasar",
+      "no": 1,
+      "bupati": "I Gusti Ngurah Jaya Negara",
+      "luas": "127,78 km²",
+      "jumlah": "638.548 jiwa",
+      "kepadatan": "5.027 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lambang_Kota_Denpasar_%281%29.png/800px-Lambang_Kota_Denpasar_%281%29.png",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "no": 2,
+      "kota": "Badung",
+      "bupati": "I Nyoman Giri Prasta",
+      "luas": "418,62 km²",
+      "jumlah": "468.346 jiwa",
+      "kepadatan": "1.120 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lambang_Kabupaten_Badung.png"
+    },
+    {
+      "no": 3,
+      "kota": "Gianyar",
+      "bupati": "I Made Agus M",
+      "luas": "368,00 km²",
+      "jumlah": "492.757 jiwa",
+      "kepadatan": "1.339 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lambang_Kab_Gianyar.png",
+      "id": 2
+    },
+    {
+      "no": 4,
+      "kota": "Buleleng",
+      "bupati": "I Ketut Lihadnyana",
+      "luas": "1.364,73 km²",
+      "jumlah": "814.356 jiwa",
+      "kepadatan": "597 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lambang_Kabupaten_Buleleng.png",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "no": 5,
+      "kota": "Jembrana",
+      "bupati": "I Nengah Tambah",
+      "luas": "841,80 km²",
+      "jumlah": "323.211  jiwa",
+      "kepadatan": "384 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lambang_Kab_Jembrana.png/800px-Lambang_Kab_Jembrana.png"
+    },
+    {
+      "id": 5,
+      "no": 6,
+      "kota": "Klungkung",
+      "bupati": "I Nyoman Suwirta",
+      "luas": "315,00 km²",
+      "jumlah": "215.852 jiwa",
+      "kepadatan": "685 jiwa/km²",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lambang_Kabupaten_Klungkung.png/800px-Lambang_Kabupaten_Klungkung.png"
+    }
+  ]
+}
